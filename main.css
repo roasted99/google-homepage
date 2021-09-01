@@ -11,11 +11,10 @@ body {
 .search_image {
     display: block;
     margin: 0 auto 1em auto;
-    width: 30em;
 }
 .search_input {
-    height: 3em;
-    width: 60em;
+    height: 3.2em;
+    width: 45rem;
     border-radius: 25em;
 }
 .buttonFamily {
